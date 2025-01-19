@@ -3,7 +3,7 @@
 
 ## Created by  
 - **Name**: Adnane Louardi  
-- **Email**: adnane.louardi-etu@univh2c.ma  
+- **Email**: adnanelouardi.dev@gmail.com
 - **Year**: 2024/2025  
 
 ## Description  
